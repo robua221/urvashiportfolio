@@ -4,18 +4,14 @@ import { motion } from "framer-motion";
 const experiences = [
   {
     year: "May 2025 — December 2025",
-    title: "Construction Project Management Intern • PortsToronto (Toronto Port Authority) Toronto, Canada",
+    title:
+      "Construction Project Management Intern • PortsToronto (Toronto Port Authority) Toronto, Canada",
     desc: "Managing project documentation, contractor coordination, schedules, procurement workflows, and digital project tools.",
   },
   {
     year: "2022 — 2023",
     title: "Architect & Project Coordinator • India",
     desc: "Worked on commercial complexes, township masterplans, and luxury interior projects. Handled client presentations, design development, and execution drawings.",
-  },
-  {
-    year: "2017 — 2022",
-    title: "Bachelor of Architecture",
-    desc: "Developed academic projects across housing, cultural centers, institutional design, and urban analysis.",
   },
 ];
 
